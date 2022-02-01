@@ -1,5 +1,8 @@
 ![header](doc/header.png)
 # Description
+
+[![Latest Stable Version](https://poser.pugx.org/jackmartin/crosspay/v/stable)](https://packagist.org/packages/jackmartin/crosspay) [![Total Downloads](https://poser.pugx.org/jackmartin/crosspay/downloads)](https://packagist.org/packages/jackmartin/crosspay) [![License](https://poser.pugx.org/jackmartin/crosspay/license)](https://packagist.org/packages/jackmartin/crosspay)
+
 PHP library to work with API [CrossPay](https://crosspay.net/)
 
 > Read this in other language: [English](README.en.md), [Русский](README.md), [Український](README.ua.md)
