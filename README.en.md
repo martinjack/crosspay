@@ -23,33 +23,33 @@ composer require jackmartin/crosspay
 
 # Basic methods API
 1. Connection setup
-    * [__construct]()
+    * [__construct](https://github.com/martinjack/crosspay/blob/master/README.en.md#__construct)
 2. Payment acceptance
-    * [payIn]()
+    * [payIn](https://github.com/martinjack/crosspay/blob/master/README.en.md#payment-acceptance)
 3. Payment acceptance host-to-host
-    * [exchangePayIn]()
+    * [exchangePayIn](https://github.com/martinjack/crosspay/blob/master/README.en.md#payment-acceptance-host-to-host)
 4. Tokenization
-    * [cardToken]()
+    * [cardToken](https://github.com/martinjack/crosspay/blob/master/README.en.md#tokenization)
 5. Create payout
-    * [createPayout]()
+    * [createPayout](https://github.com/martinjack/crosspay/blob/master/README.en.md#create-payout)
 6. Payout with exchange
-    * [exchangePayout]()
+    * [exchangePayout](https://github.com/martinjack/crosspay/blob/master/README.en.md#payout-with-exchange)
 7. Getting order status
-    * [orderStatus]()
+    * [orderStatus](https://github.com/martinjack/crosspay/blob/master/README.en.md#getting-order-status)
 8. Transaction History
-    * [historyTransactions]()
+    * [historyTransactions](https://github.com/martinjack/crosspay/blob/master/README.en.md#transaction-history)
 9. Create report
-    * [reportCreate]()
+    * [reportCreate](https://github.com/martinjack/crosspay/blob/master/README.en.md#create-report)
 10. Get report
-    * [reportGet]()
+    * [reportGet](https://github.com/martinjack/crosspay/blob/master/README.en.md#get-report)
 11. Report status
-    * [reportStatus]()
+    * [reportStatus](https://github.com/martinjack/crosspay/blob/master/README.en.md#report-status)
 12. Balances
-    * [balances]()
+    * [balances](https://github.com/martinjack/crosspay/blob/master/README.en.md#balances)
 13. Exchange rates
-    * [exchangeRates]()
+    * [exchangeRates](https://github.com/martinjack/crosspay/blob/master/README.en.md#exchange-rates)
 14. Order update
-    * [updateOrder]()
+    * [updateOrder](https://github.com/martinjack/crosspay/blob/master/README.en.md#order-update)
 
 # Примеры
 

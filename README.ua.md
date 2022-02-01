@@ -25,33 +25,33 @@ composer require jackmartin/crosspay
 
 # Основні методи API
 1. Налаштування підключення
-    * [__construct]()
+    * [__construct](https://github.com/martinjack/crosspay/blob/master/README.ua.md#__construct)
 2. Прийом платежу
-    * [payIn]()
+    * [payIn](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%BF%D1%80%D0%B8%D0%B9%D0%BE%D0%BC-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D1%83)
 3. Прийом платежу host-to-host
-    * [exchangePayIn]()
+    * [exchangePayIn](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%BF%D1%80%D0%B8%D0%B9%D0%BE%D0%BC-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D1%83-host-to-host)
 4. Токенізація
-    * [cardToken]()
+    * [cardToken](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F)
 5. Створення виплат
-    * [createPayout]()
+    * [createPayout](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%B2%D0%B8%D0%BF%D0%BB%D0%B0%D1%82%D0%B0-%D0%B7-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BE%D0%BC)
 6. Виплата з обміном
-    * [exchangePayout]()
+    * [exchangePayout](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%B2%D0%B8%D0%BF%D0%BB%D0%B0%D1%82%D0%B0-%D0%B7-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BE%D0%BC)
 7. Отримання статусу ордера
-    * [orderStatus]()
+    * [orderStatus](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%BE%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D1%83-%D0%BE%D1%80%D0%B4%D0%B5%D1%80%D0%B0)
 8. Історія транзакцій
-    * [historyTransactions]()
+    * [historyTransactions](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D1%96%D0%B9)
 9. Створити звіт
-    * [reportCreate]()
+    * [reportCreate](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B8-%D0%B7%D0%B2%D1%96%D1%82)
 10. Отримати звіт
-    * [reportGet]()
+    * [reportGet](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%BE%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D1%82%D0%B8-%D0%B7%D0%B2%D1%96%D1%82)
 11. Статус звіту
-    * [reportStatus]()
+    * [reportStatus](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81-%D0%B7%D0%B2%D1%96%D1%82%D1%83)
 12. Баланси
-    * [balances]()
+    * [balances](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8)
 13. Курси обмін
-    * [exchangeRates]()
+    * [exchangeRates](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%BA%D1%83%D1%80%D1%81%D0%B8-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD)
 14. Оновлення ордера
-    * [updateOrder]()
+    * [updateOrder](https://github.com/martinjack/crosspay/blob/master/README.ua.md#%D0%BE%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BE%D1%80%D0%B4%D0%B5%D1%80%D0%B0)
 
 # Приклади
 

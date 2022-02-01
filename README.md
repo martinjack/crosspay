@@ -1,6 +1,8 @@
 ![header](doc/header.png)
 # Описание
 
+[![Latest Stable Version](https://poser.pugx.org/jackmartin/crosspay/v/stable)](https://packagist.org/packages/jackmartin/crosspay) [![Total Downloads](https://poser.pugx.org/jackmartin/crosspay/downloads)](https://packagist.org/packages/jackmartin/crosspay) [![License](https://poser.pugx.org/jackmartin/crosspay/license)](https://packagist.org/packages/jackmartin/crosspay)
+
 PHP библиотека для работы с API [CrossPay](https://crosspay.net/)
 
 > Read this in other language: [English](README.en.md), [Русский](README.md), [Український](README.ua.md)
@@ -25,33 +27,33 @@ composer require jackmartin/crosspay
 
 # Основные методы API
 1. Настройка подключения
-    * [__construct]()
+    * [__construct](https://github.com/martinjack/crosspay#__construct)
 2. Приём платежа
-    * [payIn]()
+    * [payIn](https://github.com/martinjack/crosspay#%D0%BF%D1%80%D0%B8%D1%91%D0%BC-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0)
 3. Приём платежа host-to-host
-    * [exchangePayIn]()
+    * [exchangePayIn](https://github.com/martinjack/crosspay#%D0%BF%D1%80%D0%B8%D1%91%D0%BC-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0-host-to-host)
 4. Токенизация
-    * [cardToken]()
+    * [cardToken](https://github.com/martinjack/crosspay#%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
 5. Создание выплаты
-    * [createPayout]()
+    * [createPayout](https://github.com/martinjack/crosspay#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2%D1%8B%D0%BF%D0%BB%D0%B0%D1%82%D1%8B)
 6. Выплата с обменом 
-    * [exchangePayout]()
+    * [exchangePayout](https://github.com/martinjack/crosspay#%D0%B2%D1%8B%D0%BF%D0%BB%D0%B0%D1%82%D0%B0-%D1%81-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%BE%D0%BC)
 7. Получение статуса ордера
-    * [orderStatus]()
+    * [orderStatus](https://github.com/martinjack/crosspay#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0-%D0%BE%D1%80%D0%B4%D0%B5%D1%80%D0%B0)
 8. История транзакций
-    * [historyTransactions]()
+    * [historyTransactions](https://github.com/martinjack/crosspay#%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9)
 9. Создать отчёт
-    * [reportCreate]()
+    * [reportCreate](https://github.com/martinjack/crosspay#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%BE%D1%82%D1%87%D1%91%D1%82)
 10. Получить отчёт
-    * [reportGet]()
+    * [reportGet](https://github.com/martinjack/crosspay#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%BE%D1%82%D1%87%D1%91%D1%82)
 11. Статус отчёта
-    * [reportStatus]()
+    * [reportStatus](https://github.com/martinjack/crosspay#%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81-%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%B0)
 12. Балансы
-    * [balances]()
+    * [balances](https://github.com/martinjack/crosspay#%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D1%8B)
 13. Курсы обменов
-    * [exchangeRates]()
+    * [exchangeRates](https://github.com/martinjack/crosspay#%D0%BA%D1%83%D1%80%D1%81%D1%8B-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2)
 14. Обновления ордера
-    * [updateOrder]()
+    * [updateOrder](https://github.com/martinjack/crosspay#%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE%D1%80%D0%B4%D0%B5%D1%80%D0%B0)
 
 # Примеры
 
