@@ -1,0 +1,33 @@
+{
+  "name": "jackmartin/crosspay",
+  "description": "Library CrossPay API",
+  "keywords": [
+    "api",
+    "library",
+    "crosspay",
+    "crosspay api"
+  ],
+  "homepage": "https://github.com/martinjack/crosspay",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "CrossPay\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Evgen Kytonin",
+      "email": "killfess@gmail.com"
+    }
+  ],
+  "autoload-dev": {
+    "psr-4": {
+      "CrossPay\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.4",
+    "php": ">=7.2",
+    "phpunit/phpunit": "^9.5"
+  }
+}
